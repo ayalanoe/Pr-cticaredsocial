@@ -1,0 +1,166 @@
+body{
+    background-color: rgb(238, 238, 238);
+}
+
+button{
+    
+    background-color: rgb(203, 203, 203);
+    color: rgb(76, 76, 76);
+    font-size: 15px;
+}
+button:hover{
+    color:  rgb(15, 63, 255);
+}
+
+img{
+    border-radius: 7px;
+}
+
+#oficina{
+    width: 700px;
+    height: 230px;
+    border-radius: 30px;
+}
+
+#fotoboton{
+    width: 50px;
+    height: 50px;
+    border-radius: 22px;
+}
+
+.card{
+    border-radius: 8px;
+}
+.cm{
+    font-size: 14px;
+}
+
+.tnombre{
+    text-align:left;
+    font-size: 15px;
+}
+
+.cardhistory{
+    height: 150px; 
+    width: 100px;
+}
+#banner
+        {
+            padding: 0px;
+            margin: 0;
+            border: 0;
+            width: 100%;
+            height: 50px;
+
+        }   
+
+        #fotoPerfil
+        {
+            width: 70px;
+            height: 70px;
+            border: solid 4px white;
+            margin-top: -30px;
+            border-top-left-radius: 5px;
+            border-top-right-radius: 5px;
+        }
+
+        #botonFotoPerfil
+        {
+            background-color: white;
+            border: none;
+        }
+
+        .texto
+        {
+            display: inline;
+        }
+
+        #imgultimobtn
+        {
+            padding: 0;
+            border: 0px;
+            width: 30px;
+            height: 30px;
+
+        }
+        #ultimobtnimg
+        {
+            background-color: white;
+            border: none;
+        }
+
+    .par{
+        color: gray;
+    }
+
+    .cv{
+        margin-bottom: 10px;
+    }
+
+    .mar{
+        padding: 0;
+        border: 0;
+        margin: 0 0 0 13px;
+    }
+
+    .btnvi{
+        background-color: rgb(233, 241, 255);
+        color:  rgb(15, 63, 255);
+        float: left;
+        width: 255px;
+    }
+    .btnvi:hover{
+        background-color: rgb(15, 63, 255);
+        color: white;
+    }
+
+    .lorifergu{
+        width: 40px;
+        height: 35px;
+        color: black;
+        background-color: rgb(255, 255, 255);
+        border-radius: 10px;
+    }
+
+    .lorifergu:hover{                 /* color sobre boton de card derecha*/
+        background-color: rgb(163, 163, 163);
+    }
+
+    .contderecho{                       /*boton de card derecha*/
+        width: 45px;
+        height: 45px;
+        color: rgb(15, 63, 255);
+        background-color: rgb(233, 241, 255);
+        border-radius: 25px;
+        
+    }
+
+    .contderecho:hover{                 /* color sobre boton de card derecha*/
+        background-color: rgb(15, 63, 255);
+        color: white;
+    }
+
+    .contderechocheck{
+        width: 45px;
+        height: 45px;
+        font-size: 13px;
+        color: white;
+        background-color: rgb(15, 63, 255);
+        border-radius: 25px; 
+    }
+    .contderechocheck:hover{
+        color: rgb(161, 161, 161);
+        background-color: rgb(1, 25, 122);
+        border-radius: 18px; 
+    }
+
+    .icon{
+        background-color: rgb(233, 241, 255);
+        border-radius: 18px;
+        height: 40px;
+    }
+
+    #plu{
+        width:170px;
+        height: 17px;
+    }
